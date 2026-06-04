@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+bookings.json
+waitlist.json
+data/
+credentials.json
+token.json
+*.db
+*.db-shm
+*.db-wal

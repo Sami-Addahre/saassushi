@@ -1,0 +1,10 @@
+node_modules/
+website/node_modules/
+website/dist/
+website/.env
+project/.env
+project/data/
+project/__pycache__/
+project/credentials.json
+project/.venv/
+.DS_Store
